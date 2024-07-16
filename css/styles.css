@@ -2,6 +2,7 @@
 @import "reset.css";
 @import "variables.css";
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
 @import "screens/login.css";
 
 body {
