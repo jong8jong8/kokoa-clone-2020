@@ -13,7 +13,7 @@
 }
 .nav__link {
     position: relative;
-    color: #2e363e;
+    /* color: #2e363e; */
 }
 .nav__notification {
     background-color: tomato;
